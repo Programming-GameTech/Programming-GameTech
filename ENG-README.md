@@ -10,8 +10,8 @@
   - Discord: [gametech.cornerstone](https://discord.gg/gafbGdZm)
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact:
-  1. I am currently playing 3 games:
+  - I am currently playing 3 games:
     - MajSoul
     - Riichi City
     - Amatsuki Mahjong (Currently in Beta version)
-  2. I'm using Chromebook
+  - I'm using Chromebook
