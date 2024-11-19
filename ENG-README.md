@@ -8,8 +8,11 @@
   - Minesweeper
   - Game Designing & Planning
 - 📫 How to reach me:
-  - Gamil: [crownofpremium@gmail.com](mailto:crownofpremium@gmail.com)
+  - Gmail: [crownofpremium@gmail.com](mailto:crownofpremium@gmail.com)
   - Discord: [gametech.cornerstone](https://discord.gg/gafbGdZm)
+  - Reddit: [GameTech](https://www.reddit.com/user/magicviii/)
+  - Stack Overflow: [GameTech](https://stackoverflow.com/users/28366292/gametech)
+  - Minesweeper Online: [Game-Tech](https://minesweeper.online/player/18190272)
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact:
   - I am currently playing 3 games:
