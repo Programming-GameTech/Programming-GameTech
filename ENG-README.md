@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @Programming-GameTech
-- 👀 I’m interested in Game Developing and Japanese Mahjong
+- 👀 I’m interested in Game Planning, Game Designing, Programming and Japanese Mahjong
 - 🌱 I’m currently learning:
   - Python
   - C#
-  - Javascript (Google Apps Script uses it)
+  - Javascript
   - Japanese Mahjong
+  - Minesweeper
+  - Game Designing & Planning
 - 📫 How to reach me:
   - Gamil: [crownofpremium@gmail.com](mailto:crownofpremium@gmail.com)
   - Discord: [gametech.cornerstone](https://discord.gg/gafbGdZm)
@@ -12,6 +14,6 @@
 - ⚡ Fun fact:
   - I am currently playing 3 games:
     - MajSoul
-    - Riichi City
     - Amatsuki Mahjong (Currently in Beta version)
+    - Minesweeper Online
   - I'm using Chromebook
