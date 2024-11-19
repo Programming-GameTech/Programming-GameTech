@@ -8,7 +8,7 @@
   - 踩地雷
   - 遊戲企劃＆設計
 - 📫 如何與我聯絡：
-  - Gamil: [crownofpremium@gmail.com](mailto:crownofpremium@gmail.com)
+  - Gmail: [crownofpremium@gmail.com](mailto:crownofpremium@gmail.com)
   - Discord: [gametech.cornerstone](https://discord.gg/gafbGdZm)
   - Reddit: [GameTech](https://www.reddit.com/user/magicviii/)
   - Stack Overflow: [GameTech](https://stackoverflow.com/users/28366292/gametech)
