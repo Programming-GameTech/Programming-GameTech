@@ -1,0 +1,11 @@
+- Hello, I am GameTech (`gametech.chrono`).
+- Available Times:
+  - Mon ~ Fri: 5:30 AM - 6:15 AM, 7:15 AM - 4:00 PM, 6:00 PM - 9:00 PM
+  - Sat ~ Sun: 5:30 AM ~ 9:00 PM
+- Interested:
+  - Mafia Remastered
+  - Dank Memer
+  - Karuta
+  - Genshin Impact
+  - Honkai: Star Rail
+  - D&D 5e 2014 & 2024   
